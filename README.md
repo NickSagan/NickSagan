@@ -4,6 +4,4 @@
 - 🌱 I’m currently learning swiftUI
 - 👯 I’m looking to collaborate on some interesting iOS projects
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NickSagan&show_icons=true)
---------------------------------------------------------------------
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSagan&theme=blue-green)
