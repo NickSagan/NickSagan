@@ -9,5 +9,3 @@
 --------------------------------------------------------------------
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSagan&theme=blue-green)
-
-<img src="https://komarev.com/ghpvc/?username=NickSagan">
