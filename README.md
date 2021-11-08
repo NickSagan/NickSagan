@@ -1,7 +1,3 @@
-### HI! Ask me if you need some help with Swift.
-
-- 🔭 I’m currently working on iOS 2D Game (via SpriteKit)
-- 🌱 I’m currently learning swiftUI
-- 👯 I’m looking to collaborate on some interesting iOS projects
+Started my journey into the amazing world of programming with Pascal in high school in 2003-2005, where I made my first screensaver for Windows, then after school I studied Delphi dialect of the Object Pascal, and using their IDE I made my first game: Arkanoid. Later, I switched to web development: HTML, CSS, JS, etc. I made websites for myself and on order. Launched a couple of startups in Russia as a front-end developer and founder at the same time. And now, in the days of the mobile era, I'm diving deep into iOS development with Swift. Drop me a line if you need any help with iOS development.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSagan&theme=blue-green)
