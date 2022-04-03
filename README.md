@@ -5,3 +5,5 @@ Started my journey into the amazing world of programming with Pascal in high sch
     <img title="NickSagan's LeetCode Stats" alt="NickSagan's LeetCode Stats" src="https://leetcode.card.workers.dev/NickSagan?theme=nord&font=baloo&width=498&border=0.5&cache=300" />
   </a>
 </p>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/NickSagan?theme=auto&font=source_code_pro&extension=null&cache=300)
